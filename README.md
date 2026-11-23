@@ -21,6 +21,9 @@ hand-crafted or tuned by a genetic algorithm, approach a data-driven model?
 | `data/processed/weather_PI_2015_2025.csv.gz` | Daily weather from NASA POWER for the 224 municipalities, 2015–2025 |
 | `data/processed/dataset_integrated_PI_2015_2025.csv.gz` | **Integrated dataset**: one row per municipality-day with daily weather and the fire label |
 | `LICENSE` | MIT license (code) |
+| `wildfire_risk_piaui_SBC.pdf` | Expanded abstract (SBC format, English) |
+| `wildfire_risk_piaui_SBC.md` | Same expanded abstract in Markdown |
+| `Previsão de queimadas.pptx` | Presentation slides (also available on Canva: COLE_AQUI_O_LINK_NOVO) |
 
 ## How to run
 
