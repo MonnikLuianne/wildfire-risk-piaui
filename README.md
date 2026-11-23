@@ -23,7 +23,7 @@ hand-crafted or tuned by a genetic algorithm, approach a data-driven model?
 | `LICENSE` | MIT license (code) |
 | `wildfire_risk_piaui_SBC.pdf` | Expanded abstract (SBC format, English) |
 | `wildfire_risk_piaui_SBC.md` | Same expanded abstract in Markdown |
-| `Previsão de queimadas.pptx` | Presentation slides (also available on Canva: COLE_AQUI_O_LINK_NOVO) |
+| `Previsão de queimadas.pptx` | Presentation slides (also available on Canva: https://canva.link/tepnv3z2bvue33f) |
 
 ## How to run
 
