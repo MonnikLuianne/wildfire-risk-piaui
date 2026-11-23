@@ -102,7 +102,7 @@ Notebook (Colab): [https\://colab.research.google.com/github/MonnikLuianne/wildf
 
 Integrated dataset: [https\://github.com/MonnikLuianne/wildfire-risk-piaui/blob/main/data/processed/dataset\_integrated\_PI\_2015\_2025.csv.gz](https://github.com/MonnikLuianne/wildfire-risk-piaui/blob/main/data/processed/dataset_integrated_PI_2015_2025.csv.gz)
 
-Slides: [https\://canva.link/5adl6v71z0xqk8m](https://canva.link/5adl6v71z0xqk8m)
+Slides: [https\://canva.link/5adl6v71z0xqk8m](https://canva.link/tepnv3z2bvue33f)
 
 **7\. Use of Large Language Models**
 
