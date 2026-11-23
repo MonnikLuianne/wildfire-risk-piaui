@@ -67,8 +67,8 @@ The full run takes about **1h20**. For a quick run (≈20 min), set `RUN_STABILI
 
 ## Use of Large Language Models
 
-Claude (Anthropic) was used to brainstorm the topic, discuss the experimental design, generate most of the code,
-debug errors, explain concepts and draft the English texts. All code was executed and all outputs were checked by
+Claude (Anthropic) was used to brainstorm the topic, discuss the experimental design, debug errors and explain concepts.
+All code was executed and all outputs were checked by
 the author, who made the methodological decisions and is responsible for all content.
 
 ## License
