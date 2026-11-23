@@ -39,7 +39,7 @@ A Mamdani system [Mamdani and Assilian 1975] uses trapezoidal sets for recent ac
 
 Fire is strongly seasonal (Figure 1): below 1% of municipality-days from January to May and 12–13% in September–October. Fire days are drier (median humidity ≈40% vs ≈55%) and hotter, but distributions overlap and partly reflect seasonality.
 
-![Figure 1](figures/fig1_fire_rate.png)
+![Figure 1](fig1_fire_rate.png)
 
 **Figure 1. Fire rate by month (left) and by year, with the data split (right).**
 
@@ -56,7 +56,7 @@ The Random Forest is the best model on validation and test (Table 1, Figure 2). 
 | Fuzzy (hand-crafted) | 0.228 | 0.193 | 0.334 | 0.226 | 0.270 |
 | Fuzzy + GA | 0.271 | 0.226 | 0.293 | 0.321 | 0.306 |
 
-![Figure 2](figures/fig2_comparison.png)
+![Figure 2](fig2_comparison.png)
 
 **Figure 2. PR-AUC on validation (light) and test (dark), and test recall for the whole year (light) and for November–December (dark).**
 
